@@ -1,9 +1,11 @@
 package stackAndQueue;
 
-public class StackAndQueue {
+public class Main {
 
 	public static void main(String[] args) {
 
 		System.out.println("Welcome stack and queue");
+
 	}
+
 }
